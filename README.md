@@ -9,7 +9,7 @@ Just a compilation of patterns from different projects.
 the tool: https://github.com/tomnomnom/gf
 
 
-the public patterns
+Public patterns
 
  * https://github.com/robre/gf-patterns
  * https://github.com/dwisiswant0/gf-secrets
